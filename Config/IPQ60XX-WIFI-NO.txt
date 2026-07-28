@@ -30,3 +30,5 @@ CONFIG_PACKAGE_ath11k-firmware-ipq6018=n
 CONFIG_PACKAGE_ath11k-firmware-ipq6018-ddwrt=n
 CONFIG_PACKAGE_ath11k-firmware-qcn9074=n
 CONFIG_PACKAGE_ath11k-firmware-qcn9074-ddwrt=n
+#更换软件源为ipk
+CONFIG_USE_APK=y
